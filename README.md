@@ -17,7 +17,7 @@
 <div align="right">
 <br>
 
- 💻   삼성 청년 SW 아카데미(SSAFY) 6기 수료
+ 📘   삼성 청년 SW 아카데미(SSAFY) 6기 수료
     
  👩🏻‍💼   호서대학교 전자공학 전공
     
@@ -36,7 +36,7 @@
 <br>
 <hr>
 <details>
-<summary>🏫 교육/학력</summary>
+<summary>🎓 교육/학력</summary>
 <div markdown="1">
     
 - 호서대학교 전자공학 학사 (2012.03 ~ 2019.02)
@@ -48,7 +48,7 @@
     
 
 <details>
-<summary>📝 경력</summary>
+<summary>💼 경력</summary>
 <div markdown="1">
     
 - 로봇엔드디자인 펌웨어 엔지니어(2018.12 ~ 2020.01)
@@ -58,7 +58,7 @@
 </div>
 </details>
 <details>
-<summary>📝 수상</summary>
+<summary>🏆 수상</summary>
 <div markdown="1">
 
 - 교내 창의융합 아이디어 경진대회 우수상
@@ -79,6 +79,21 @@
 - 정보처리기사
     
 - SQLD
+    
+</div>
+</details>
+    
+<details>
+<summary>💻 프로젝트</summary>
+<div markdown="1">
+    
+- 삼성 반도체 Java SW 개발(2022.07~)
+    
+- Dokkabi (쉽고 빠른 배포 솔루션)
+    
+- 세상에 나쁜 기부는 없다(블록체인 기반 기부 플랫폼)
+    
+- Azit (공유 영상 다이어리)
     
 </div>
 </details>
