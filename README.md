@@ -19,7 +19,7 @@
 
  💻   삼성 청년 SW 아카데미(SSAFY) 6기 수료
     
- 👩🏻‍💼   호서대하교 전자공학 전공
+ 👩🏻‍💼   호서대학교 전자공학 전공
     
  💻   Java 프로그램 개발자
   
@@ -137,17 +137,6 @@ style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     <img src="https://img.shields.io/badge/Dbeaver-333664?style=flat-square&logo=dbeaver&logoColor=white"/>
 </p>
  -->
-
-## 🙋🏻‍♀️ Contact me
-
-<div align="center">
-    <a href="mailto:wsmh.kim12@gmail.com">
-        <img 
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/"
-            style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
-    </a>
-    
-</div>
 
 <!--
 **leejieuns2/leejieuns2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
