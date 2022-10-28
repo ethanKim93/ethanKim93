@@ -1,25 +1,25 @@
-<p align="right">
+<!-- <p align="right">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FethanKim93&count_bg=%236BA4F8&title_bg=%230E1116&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"
          style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 </p>
-
+ -->
 
 ## 👋🏻 Hi there  
-
-- 👩🏻‍💼   Department of CS (Computer Science)
-- 💻   Usually using Java language for programmming
-- 👩🏻‍🏫   Learn constantly and think creatively.
+- 💻   Samsung Sw Academy For Youth (삼성 청년 SW 아카데미) 6기 수료
+- 👩🏻‍💼   전자 공학 전공
+- 💻   Java 개발자
+- 👩🏻‍🏫   더 간단하게 , 더 완벽하게 개발하는 개발자
 
 <br>
 
 
-<div id="main" align="center">
+<div id="main" align="left">
     <img 
         src="https://github-readme-stats.vercel.app/api?username=ethanKim93&hide=stars,contribs&count_private=true&show_icons=true"
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 </div>
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wsmh17)](https://solved.ac/wsmh17/)
 ## 👩🏻‍💻 Tech Stack 
 
 <p align="center">
