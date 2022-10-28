@@ -126,9 +126,6 @@ style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 <p align="center">
     <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=oracle&logoColor=white"/>
     <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
-</p>
-
-<p align="center">    
     <img src="https://img.shields.io/badge/Docker-333664?style=flat-square&logo=Docker&logoColor=white"/>
 </p>
 
