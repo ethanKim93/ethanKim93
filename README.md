@@ -98,10 +98,10 @@
 </div>
 </details>
 
-<img 
+<!-- <img 
 src="https://github-readme-stats.vercel.app/api?username=ethanKim93&hide=stars,contribs&count_private=true&show_icons=true"
 style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
-</div>
+</div> -->
 
 
 <!-- 
@@ -116,7 +116,7 @@ style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 
     
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wsmh17)](https://solved.ac/wsmh17/) -->
-
+<!-- 
 ## 👩🏻‍💻 Tech Stack 
 
 <p align="center">
@@ -143,7 +143,7 @@ style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-333664?style=flat-square&logo=Docker&logoColor=white"/>
 </p>
-
+-->
 <!-- ## 🌱 Tool 
 <p align="center">    
     <img src="https://img.shields.io/badge/Dbeaver-333664?style=flat-square&logo=dbeaver&logoColor=white"/>
