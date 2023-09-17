@@ -60,6 +60,7 @@
 <details>
 <summary>🏆 수상</summary>
 <div markdown="1">
+    
 - SSAFY 자율 프로젝트 우수상(전국 96개 팀 中 2등)
 
 - 2018 공학 페시티벌 사회기여상
@@ -85,6 +86,7 @@
 <details>
 <summary>💻 프로젝트</summary>
 <div markdown="1">
+    
 - 삼성 디스플레이 판정 System Web 개발(2023.02 ~ )
 
 - 삼성 반도체 Java SW 개발 및 운영(2022.07 ~ 2023.02)
