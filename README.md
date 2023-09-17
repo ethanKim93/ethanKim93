@@ -21,7 +21,7 @@
     
  👩🏻‍💼   호서대학교 전자공학 전공
     
- 💻   Java 프로그램 개발자
+ 💻   Back-End 기반 Full Stack 개발자
   
  
 <br>
